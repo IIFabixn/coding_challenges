@@ -1,4 +1,5 @@
 <img src="./knights_tour.webp" />
+<small>* Designed with the help of OpenAI's DALL·E.</small>
 
 # The Knight's Tour Problem - Coding Challenge
 
@@ -14,7 +15,7 @@ The knight moves to any of the squares in the following manner:
 <center>
 <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/pdrpnht/phpVuLl4W.png" height="300" width="300" />
 <br />
-Image source: [Chess.com](https://www.chess.com/terms/chess-knight)
+<small>Image source: [Chess.com](https://www.chess.com/terms/chess-knight)</small>
 </center>
 
 
