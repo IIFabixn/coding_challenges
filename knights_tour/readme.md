@@ -1,4 +1,4 @@
-<img src="./knights_tour.webp />
+<img src="./knights_tour.webp" />
 
 # The Knight's Tour Problem - Coding Challenge
 
