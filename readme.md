@@ -1,6 +1,5 @@
 # Collection of my own coding challanges
 
-1. [Supply Chain Challange](./supply_chain/supply_chain.md)
-2. [Hotel Transsilvania](./hotel_transsilvanien/readme.md)
-3. [Knights Tour](./knights_tour/readme.md)
-4. [Sentence Builder](./sentence_builder/readme.md)
+1. [Hotel Transsilvania](./hotel_transsilvanien/readme.md)
+2. [Knights Tour](./knights_tour/readme.md)
+3. [Sentence Builder](./sentence_builder/readme.md)
