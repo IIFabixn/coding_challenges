@@ -3,3 +3,4 @@
 1. [Hotel Transsilvania](./hotel_transsilvanien/readme.md)
 2. [Knights Tour](./knights_tour/readme.md)
 3. [Sentence Builder](./sentence_builder/readme.md)
+4. [Decrypt](./decrypt/readme.md)
