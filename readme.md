@@ -3,3 +3,4 @@
 1. [Supply Chain Challange](./supply_chain/supply_chain.md)
 2. [Hotel Transsilvania](./hotel_transsilvanien/readme.md)
 3. [Knights Tour](./knights_tour/readme.md)
+4. [Sentence Builder](./sentence_builder/readme.md)
